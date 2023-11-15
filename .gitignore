@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+
+install_jenkins.sh
+
+terraform.tfstate
+
+.terraform/
